@@ -1,0 +1,8 @@
+{
+  "name": "USDTv3",
+  "symbol": "USDTv3",
+  "decimals": 6,
+  "description": "Flash USDT is a test token mimicking stablecoin behavior for wallet and DEX integration testing on BSC.",
+  "explorer": "https://bscscan.com/token/0xb4524629E4E62216930891154b94d0d88a752e5E",
+  "status": "active"
+}
